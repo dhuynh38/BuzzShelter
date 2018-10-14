@@ -1,4 +1,4 @@
-# HomelessShelter
+# BuzzShelter
 Android application that helps homeless people find the closest shelter in the Atlanta area.
 
 Guidelines:
