@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BuzzShelter</string>
+    <string name="title_activity_login">Login</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email" tools:keep="@string/prompt_email">Username</string>
+    <string name="prompt_password" tools:keep="@string/prompt_password">Password</string>
+    <string name="action_sign_in" tools:keep="@string/action_sign_in">Login</string>
+    <string name="action_sign_in_short" tools:keep="@string/action_sign_in_short">Sign in</string>
+    <string name="title_activity_main"
+            tools:keep="@string/title_activity_main">MainActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
